@@ -1,2 +1,2 @@
 # jerseystore
-the aplication store jersey
+the aplication store jersey with php 
