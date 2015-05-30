@@ -1,0 +1,78 @@
+body{
+    background:#fff;
+    font-family: sans-serif;
+}
+#kotak{
+    width: 620px;
+    height: 550px;
+    background: #C0C0C0;
+    margin: 0px auto 50px auto;
+    color:#fff;
+    border-radius: 7px;
+}
+#atas{
+    height: 35px;
+    width: 620px;
+    text-align: center;
+    font-size: 15pt;
+    padding-top:20px;
+    background-color:#008080;
+    border-radius: 5px;
+}
+#bawah{
+    height: 200px;
+    width: 520px;
+    
+}
+.masuk{
+    width: 400px;
+    height:40px;
+    margin-top:10px;
+    margin-left: 80px;
+    font-size: 12pt;
+    border: 1px solid #2ECC71;
+    padding-left:10px;
+    color:#2ECC71;
+    border-radius: 10px;
+}
+.masuk:focus{
+    width: 400px;
+    height:40px;
+    margin-top:10px;
+    margin-left: 60px;
+    font-size: 12pt;
+    padding-left:10px;
+    color:#1ABC9C;
+    outline: none;
+    box-shadow: 0 0 5px #2ECC71;
+}
+  p{
+    text-align: center;
+    color: #fff;
+    margin-bottom: 0px;
+    margin-top: 0px;
+ }
+#tombol{
+    width: 70px;
+    height:40px;
+    margin-top:10px;
+    margin-left: 115px;
+    background: #00FF00;
+    border:none;
+    color:#fff;
+    font-size: 14pt;
+    outline:none;
+    border-radius: 5px;
+}
+#tombol1{
+    width: 70px;
+    height:40px;
+    margin-top:10px;
+    margin-left: 115px;
+    background: #00ffff;
+    border:none;
+    color:#fff;
+    font-size: 14pt;
+    outline:none;
+    border-radius: 5px;
+}
